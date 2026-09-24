@@ -1,0 +1,25 @@
+<?php include("_research_page_start.php"); $id=(int)($_GET["id"]??0); $stmt=$conn->prepare("SELECT * FROM research_objects WHERE id=?"); $stmt->bind_param("i",$id); $stmt->execute(); $object=$stmt->get_result()->fetch_assoc(); $stmt->close(); if(!$object){ echo "<h2>Research object not found</h2>"; include("_research_page_end.php"); exit; } ?>
+<h2><?= htmlspecialchars($object["objectNumber"]." - ".$object["objectName"]) ?></h2>
+<p><strong>Created:</strong> <?= htmlspecialchars($object["objectCreatedDate"]." ".$object["objectCreatedTime"]) ?> &nbsp; <strong>By:</strong> <?= htmlspecialchars($object["objectCreator"]) ?> &nbsp; <strong>Status:</strong> <?= htmlspecialchars($object["objectStatus"]) ?></p>
+<div class="research-detail"><p><?= nl2br(htmlspecialchars($object["objectText"])) ?></p>
+<?php $researchImages = getResearchImageUrls($object["id"]); if ($researchImages) { ?>
+<div class="research-images">
+<?php foreach ($researchImages as $imageUrl) { $imageName = basename(parse_url($imageUrl, PHP_URL_PATH)); ?>
+<span class="research-image-item"><a href="<?= htmlspecialchars($imageUrl) ?>" target="_blank"><img src="<?= htmlspecialchars($imageUrl) ?>" alt="Research image"></a><?php if(in_array($securityAccessLevel,["A","B"],true)){ ?><a class="research-image-delete" aria-label="Delete image" title="Delete image" href="research_image_delete_doit.php?id=<?= $id ?>&file=<?= rawurlencode($imageName) ?>" onclick="return confirm('Delete this image?');">&times;</a><?php } ?></span>
+<?php } ?>
+</div>
+<?php } ?>
+<?php $pdf=getResearchPdfUrl($object["objectNumber"]); if($pdf) { echo "<p><strong>Security data sheet:</strong> <a class=\"button\" href=\"".htmlspecialchars($pdf)."\" target=\"_blank\">Open PDF</a>"; if(in_array($securityAccessLevel,["A","B"],true)) echo " <a class=\"delete-link\" href=\"research_pdf_delete_doit.php?id=".$id."\" onclick=\"return confirm('Delete this PDF?');\">Delete PDF</a>"; echo "</p>"; } ?>
+<?php if(isSafeResearchVideoLink($object["presentationVideoLink"])) echo "<p><a href=\"".htmlspecialchars($object["presentationVideoLink"])."\" target=\"_blank\">Presentation video</a></p>"; ?>
+<?php if(isSafeResearchVideoLink($object["securityVideoLink"])) echo "<p><a href=\"".htmlspecialchars($object["securityVideoLink"])."\" target=\"_blank\">Security/handling video</a></p>"; ?></div>
+<h3>Research entries</h3>
+<?php if(in_array($securityAccessLevel,["A","B"],true)){ ?><form class="research-form" action="research_entry_add_doit.php" method="post"><input type="hidden" name="researchObjectId" value="<?= $id ?>"><input type="text" name="entryHeading" placeholder="Heading" required><input type="text" name="entryDate" placeholder="DD.MM.YYYY" required><textarea name="entryText" placeholder="Entry" required></textarea><input class="button" type="submit" value="Add entry"></form><?php } ?>
+<table class="registry-table research-table"><tr><th>Date</th><th>Heading</th><th>Text</th><th>Writer</th><?php if(in_array($securityAccessLevel,["A","B"],true)) echo "<th></th>"; ?></tr>
+<?php $stmt=$conn->prepare("SELECT * FROM research_entries WHERE researchObjectId=? ORDER BY id DESC"); $stmt->bind_param("i",$id); $stmt->execute(); $entries=$stmt->get_result(); while($entry=$entries->fetch_assoc()){ echo "<tr><td>".htmlspecialchars($entry["entryDate"]." ".$entry["entryTime"])."</td><td>".htmlspecialchars($entry["entryHeading"])."</td><td>".nl2br(htmlspecialchars($entry["entryText"]))."</td><td>".htmlspecialchars($entry["entryWriter"])."</td>"; if(in_array($securityAccessLevel,["A","B"],true)) echo "<td><a class=\"delete-link\" href=\"research_entry_delete_doit.php?id=".(int)$entry["id"]."\" onclick=\"return confirm('Delete this entry?');\">Delete</a></td>"; echo "</tr>"; } $stmt->close(); ?>
+</table><p><a class="button" href="research_read.php">Back to Research Database</a></p>
+<h3>Attachments</h3>
+<?php if(in_array($securityAccessLevel,["A","B"],true)){ ?><form class="research-form" action="research_attachment_upload_doit.php" method="post" enctype="multipart/form-data"><input type="hidden" name="researchObjectId" value="<?= $id ?>"><input type="file" name="attachment" required><input class="button" type="submit" value="Upload file"></form><?php } ?>
+<ul><?php foreach(researchFiles($id) as $file){ ?><li><a href="public/researchfiles/<?= $id ?>/<?= rawurlencode($file) ?>" target="_blank"><?= htmlspecialchars($file) ?></a><?php if(in_array($securityAccessLevel,["A","B"],true)){ ?> <a class="delete-link" href="research_attachment_delete_doit.php?id=<?= $id ?>&file=<?= rawurlencode($file) ?>" onclick="return confirm('Delete this file?');">Delete</a><?php } ?></li><?php } ?></ul>
+<h3>Research images</h3>
+<?php if(in_array($securityAccessLevel,["A","B"],true)){ ?><form class="research-form" action="research_image_upload_doit.php" method="post" enctype="multipart/form-data"><input type="hidden" name="researchObjectId" value="<?= $id ?>"><input type="file" name="image" accept="image/jpeg,image/png,image/gif,image/webp" required><input class="button" type="submit" value="Upload image"></form><?php } ?>
+<?php include("_research_page_end.php"); ?>

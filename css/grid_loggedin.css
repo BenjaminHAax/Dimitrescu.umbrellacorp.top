@@ -1,0 +1,534 @@
+body
+{
+    margin: 0px;
+}
+a:link { color:#ffffff; text-decoration: none; }
+a:visited { color:#ffffff; text-decoration: none; }
+a:hover { color:darkred; text-decoration: underline; }
+
+.grid-container
+{
+    min-height: 100vh;
+    height: auto;
+    display: grid;
+    grid-template-columns: auto 700px 200px auto;
+    grid-template-rows: 30px 300px 50px auto auto;
+    grid-gap: 0px;
+}
+/* ------------ HEADER -------------------------------------- */
+.grid-header
+{
+    grid-column: span 2;
+    background-color: #3c0000;
+    position: relative;   
+}    
+.header
+{
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -30%);
+    width: 950px;
+    height: 30px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+/* ------------ BREADCRUM ------------------------------------- */
+.grid-breadcrum
+{
+    grid-column: span 4;
+    background-color: #000000;
+    /* background-image: url(../images/breadcrum01.jpg); */
+    position: relative;  
+}
+.breadcrumimage
+{
+    margin-left: 100px;
+    position: absolute;
+    top: 50%;
+    transform: translate(0,-50%);
+    float: left;
+}
+.breadcrummenu
+{
+    
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,0);
+    top: 10;
+    float: left;
+}
+
+/* ------------- TOPMENU ---------------------------------------- */
+.grid-topmenu
+{
+    grid-column: span 4;
+    background-color: #3c0000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.topmenu
+{
+}
+.topmenuitem1, .topmenuitem2
+{
+    height: 50px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right   : 20px;
+    float: left;
+}
+.topmenuitem1 { background-color: #660000; }
+.topmenuitem1:hover { background-color: #330000; }
+.topmenuitem2 { background-color: #990000; }
+.topmenuitem2:hover { background-color: #660000; }
+
+.topmenudrop
+{
+    border: 1px solid black;
+	display: none;
+	position: absolute;
+	z-index: 2;
+}
+.topmenuitem1:hover .topmenudrop
+{
+	display: block;
+}
+.topmenudropitem
+{
+    background-color: darkred;
+    height: 30px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.topmenudropitem:hover { background-color: #330000; }
+
+/* ----------- EMPTY --------------------------------------------- */
+.grid-empty
+{
+    background-color: black;
+}
+.grid-emptyblack
+{
+    background-color: #3c0000;
+}
+
+/* ----------- MAIN ---------------------------------------------- */
+.featuredimage
+{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.grid-main
+{
+    background-color: black;
+    min-width: 0;
+    min-height: 0;
+}
+.main
+{
+    padding: 20px;
+    font-family: Arial;
+    font-size: 12px;
+    line-height: 1.5;
+    color: white !important;
+    
+}
+/* ----------- PASSWORD FORMS (change/forgot password) ------------ */
+.password-form
+{
+    max-width: 350px;
+    padding: 15px 20px;
+    margin-top: 10px;
+    background-color: #250000;
+    border: 1px solid #660000;
+    border-radius: 4px;
+}
+.password-form h2
+{
+    margin-top: 0;
+    font-family: Arial;
+    font-size: 16px;
+    color: white;
+    border-bottom: 1px solid #660000;
+    padding-bottom: 8px;
+}
+.password-form p
+{
+    margin: 0 0 10px 0;
+    color: white;
+}
+.password-form input[type=text],
+.password-form input[type=password]
+{
+    width: 100%;
+    margin-top: 3px;
+}
+.password-form .button
+{
+    margin-top: 4px;
+    margin-right: 5px;
+}
+/* ----------- REGISTRY TABLES (users/personnel register) --------- */
+.registry-table
+{
+    border-collapse: collapse;
+    margin-top: 10px;
+    font-family: Arial;
+    font-size: 12px;
+    color: white;
+}
+.registry-table th,
+.registry-table td
+{
+    border: 1px solid #3d7a3d;
+    padding: 6px 10px;
+    text-align: left;
+    vertical-align: middle;
+}
+.registry-table th
+{
+    background-color: #1f3d1f;
+    color: #d6f0d6;
+}
+.registry-table tr:nth-child(even)
+{
+    background-color: #142414;
+}
+.registry-table tr:hover
+{
+    background-color: #1c331c;
+}
+.registry-table a
+{
+    color: #aad037 !important;
+}
+.registry-table a.edit-link,
+.registry-table a.delete-link
+{
+    display: inline-block;
+    min-width: 46px;
+    padding: 3px 8px;
+    border-radius: 12px;
+    text-align: center;
+    font-size: 11px;
+    text-decoration: none !important;
+}
+.registry-table a.edit-link
+{
+    background-color: #3d8b3d;
+    color: white !important;
+}
+.registry-table a.edit-link:hover
+{
+    background-color: #2e6b2e;
+}
+.registry-table a.delete-link
+{
+    background-color: #8b2e2e;
+    color: white !important;
+}
+.registry-table a.delete-link:hover
+{
+    background-color: #6b1f1f;
+}
+.registry-actions
+{
+    margin-top: 12px;
+    color: white;
+}
+.registry-actions .button
+{
+    background-color: #3d8b3d;
+    border-color: #2e6b2e;
+}
+.registry-actions .button:hover
+{
+    background-color: #2e6b2e;
+}
+.research-table { width: 100%; }
+.research-detail { max-width: 680px; padding: 12px; background: #142414; border: 1px solid #3d7a3d; }
+.research-form { max-width: 680px; display: grid; gap: 8px; padding: 15px; background: #142414; border: 1px solid #3d7a3d; }
+.research-form input[type=text], .research-form textarea, .research-form select { box-sizing: border-box; width: 100%; padding: 7px; }
+.research-form textarea { min-height: 100px; }
+.research-images { display: flex; flex-wrap: wrap; gap: 10px; margin: 12px 0; }
+.research-image-item { position: relative; display: inline-block; line-height: 0; }
+.research-image-delete { position: absolute; top: 4px; right: 4px; z-index: 1; display: flex; align-items: center; justify-content: center; width: 20px; height: 20px; border-radius: 50%; background: #b00000; border: 1px solid #ffb0b0; color: white !important; font-size: 18px; font-weight: bold; line-height: 18px; text-decoration: none !important; box-shadow: 0 1px 3px #000; }
+.research-image-delete:hover { background: #e00000; color: white !important; text-decoration: none !important; }
+.research-images img { width: 140px; height: 100px; object-fit: cover; border: 1px solid #3d7a3d; }
+/* ----------- REGISTRY FORMS (add/edit user & employee) ----------- */
+.registry-form
+{
+    max-width: 700px;
+    padding: 15px 20px;
+    margin-top: 10px;
+    background-color: #142414;
+    border: 1px solid #3d7a3d;
+    border-radius: 4px;
+    color: white;
+}
+.registry-form h2
+{
+    margin-top: 0;
+    font-family: Arial;
+    font-size: 16px;
+    color: #d6f0d6;
+    border-bottom: 1px solid #3d7a3d;
+    padding-bottom: 8px;
+}
+.registry-form p
+{
+    margin: 0 0 10px 0;
+    color: white;
+}
+.registry-form input[type=text],
+.registry-form input[type=password],
+.registry-form input[type=date],
+.registry-form select,
+.registry-form textarea
+{
+    width: 100%;
+    margin-top: 3px;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+.registry-form .button
+{
+    margin-top: 4px;
+    margin-right: 5px;
+    background-color: #3d8b3d;
+    border-color: #2e6b2e;
+}
+.registry-form .button:hover
+{
+    background-color: #2e6b2e;
+}
+.registry-columns
+{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.registry-photo-col
+{
+    width: 160px;
+    flex: 0 0 160px;
+}
+.registry-fields-col
+{
+    flex: 1 1 320px;
+    min-width: 280px;
+}
+.registry-photo-box
+{
+    width: 156px;
+    height: 156px;
+    border: 2px solid #3d7a3d;
+    border-radius: 4px;
+    overflow: hidden;
+    background-color: #000000;
+}
+.registry-photo-box img
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.registry-photo-upload
+{
+    margin-top: 6px;
+    font-size: 11px;
+    color: #d6f0d6;
+}
+.registry-photo-thumb
+{
+    width: 36px;
+    height: 36px;
+    object-fit: cover;
+    border-radius: 4px;
+    border: 1px solid #3d7a3d;
+    vertical-align: middle;
+}
+.registry-photo-large
+{
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    border: 2px solid #3d7a3d;
+    border-radius: 4px;
+    float: left;
+    margin: 0 15px 10px 0;
+}
+.registry-highlight-box
+{
+    padding: 6px;
+    margin-top: 8px;
+    background-color: #1f3d1f;
+    border: 1px solid #3d7a3d;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: bold;
+    color: #d6f0d6;
+    font-size: 11px;
+}
+/* ----------- ACTIVITY LOG ---------------------------------------- */
+.activitylog-controls
+{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    margin: 10px 0;
+}
+.activitylog-controls label
+{
+    color: white;
+}
+.activitylog-controls select
+{
+    margin-left: 4px;
+}
+.activitylog-table
+{
+    width: 100%;
+}
+.activitylog-table td
+{
+    max-width: 220px;
+    overflow-wrap: anywhere;
+}
+.activitylog-pagination
+{
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    margin-top: 15px;
+}
+/* ----------- RIGHT MENU ----------------------------------------- */
+.grid-rightmenu
+{
+    background-color: #3c0000;
+    min-height: 0;
+    height: auto;
+    align-self: stretch;
+    overflow: visible;
+}
+.rightmenuitem
+{
+    width: calc(100% - 20px);
+    box-sizing: border-box;
+    background-color: darkred;
+    text-align: center;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    color: white; 
+    padding: 5pt;
+    margin: 10px;
+    border: 1px black solid;
+}
+.rightmenuitem:hover 
+{
+    background-color: black;
+}
+.rightloginform
+{
+    box-sizing: border-box;
+    width: calc(100% - 20px);
+    border: 1px black solid;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 0px;
+    margin: 10px;
+    font-size: 10px;
+    background-color: #250000;
+    color: white !important;
+}
+.rightloginform p, .rightloginform strong {
+    color: white !important;
+    margin: 4px 0px !important;
+}
+.right-account-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+}
+.right-account-actions input.button {
+    flex: 1 1 auto;
+    min-width: 0;
+    white-space: nowrap;
+    box-sizing: border-box;
+}
+.button, .button-primary, .button-secondary
+{
+	border: 1px solid black;
+	background-color : #d7ecff; 
+	font-size: 10px;
+	display: inline-block;
+	padding: 3px 8px;
+	cursor: pointer;
+	text-decoration: none;
+	color: black;
+}
+input[type=text], input[type=password]
+{
+	padding: 5px 5px;
+	box-sizing: border-box;
+	border: 1px solid black;
+	background-color : #d7ecff; 
+	font-size: 10px;
+}
+/* ------------ FOOTER ---------------------------------------------- */
+.grid-footer
+{
+    grid-column: span 2;
+    background-color: #3c0000;
+}
+.footer
+{
+    width: 950px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.footerleft
+{
+    width: 180px;
+    float: left;
+}
+.footermiddle1
+{
+    width: 300px;
+    font-family: Arial;
+    font-size: 11px;
+    color: white;
+    float: left;
+}
+.footermiddle2
+{
+    width: 250px;
+    font-family: Arial;
+    font-size: 9px;
+    color: white;
+    margin-bottom: 20px;
+    float: left;
+}
+.footerright
+{
+    width: 180px;
+    margin-bottom: 20px;
+    float: left;
+}

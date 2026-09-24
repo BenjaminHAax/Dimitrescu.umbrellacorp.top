@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "Date_of_birth": "09.11.1998",
+    "Name": "Stewie Griffin",
+    "Sex": "M",
+    "Height": "76cm",
+    "Weight": "15kg",
+    "Blood_type": "AB+",
+    "Rank": "Junior Data Analyst",
+    "Security_level": "C",
+    "Signature": "Stewie Griffin",
+    "Date": "09.11.1998",
+    "Employee_code": "IT25-07",
+    "Department": "Medical Data Department",
+    "Background": "Born to Peter and Lois Griffin in Quahog, Rhode Island. Despite his infant appearance, demonstrates exceptional intelligence and sophisticated vocabulary. Educated in advanced physics, engineering, and world domination strategies. Has constructed various devices including time machines and weather control systems. Maintains complex relationship with his mother and harbors plans for world conquest.",
+    "Strengths": "Genius-level intellect, advanced engineering and technological skills, strategic planning and tactical thinking, multilingual capabilities, leadership qualities, strong determination and focus, and creative problem-solving abilities.",
+    "Weaknesses": "Physical limitations due to infant body, overconfidence in plans, tendency to underestimate others, obsessive behavior patterns, difficulty with emotional regulation, dependency on technological solutions, and prone to elaborate but flawed schemes."
+  }
+}

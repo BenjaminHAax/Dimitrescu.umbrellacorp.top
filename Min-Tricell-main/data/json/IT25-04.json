@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "Date_of_birth": "22.02.2002",
+    "Name": "Beast Boy",
+    "Sex": "M",
+    "Height": "174cm",
+    "Weight": "65kg",
+    "Blood_type": "B-",
+    "Rank": "Junior Data Analyst",
+    "Security_level": "C",
+    "Signature": "Beast Boy",
+    "Date": "22.02.2002",
+    "Employee_code": "IT25-04",
+    "Department": "Medical Data Department",
+    "Background": "Garfield Logan, better known as Beast Boy, gained his powers after being bitten by a rare green monkey while on a science expedition with his parents in Africa. The bite would have been fatal, but his parents used an experimental serum that saved his life and gave him the ability to transform into any animal. After losing his parents, he was taken in by the Doom Patrol before eventually joining the Teen Titans. His green skin and hair are permanent side effects of the serum that saved his life.",
+    "Strengths": "Beast Boy's ability to transform into any animal gives him incredible versatility in combat and reconnaissance situations. He can become a massive elephant for strength, a cheetah for speed, a bird for flight, or even microscopic creatures for infiltration. His shape-shifting also makes him nearly impossible to restrain or contain. Beyond his powers, Beast Boy brings humor and levity to tense situations, helping maintain team morale. His empathy with animals allows him to communicate and coordinate with wildlife in ways others cannot.",
+    "Weaknesses": "Beast Boy's immaturity and tendency to not take things seriously can be a liability in critical situations. His reliance on his powers means his hand-to-hand combat skills without transformation are limited. When transformed, he takes on the mental limitations of the animal form, which can affect his judgment and strategic thinking. His emotional vulnerability, stemming from the loss of his parents and various traumas, can be exploited by enemies who understand his psychological weaknesses."
+  }
+}

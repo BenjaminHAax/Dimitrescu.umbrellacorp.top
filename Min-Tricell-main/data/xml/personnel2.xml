@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="personnel_registry.xsl"?>
+<personnelRegistry>
+	<employee>
+		<employeeCode>IT20-23</employeeCode>
+		<name>Deadlift</name>
+		<signatureDate>15.01.1988</signatureDate>
+		<dateOfBirth>15.01.1988</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>A+</bloodType>
+		<height>190 cm</height>
+		<weight>197 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Deadlift's background includes a start as a competitive national swimmer, a period working as a truck mechanic, and an eventual transition to becoming a professional strongman after getting into bodybuilding. Born in Newcastle-under-Lyme, England, on January 15, 1988, he was once a high-achieving swimmer who competed at the national level before focusing on strength sports</Background>
+		<Strengths>Strength.</Strengths>
+		<Weaknesses>Icelandic people.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT23-20</employeeCode>
+		<name>Falcon</name>
+		<signatureDate>28.11.1989</signatureDate>
+		<dateOfBirth>29.11.1989</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>B-</bloodType>
+		<height>174 cm</height>
+		<weight>73 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Custom character
+The person that would become Falcon always had a love for birds and exploration and would often go out birdwatching. He would often help when he could in minor things, first just leaving out birdfeed. but later this moved on to helping take care of the rare injured birds he would stumble across.
+During this time he managed to get a pretty good relationship with a Falcon that he would often see. That started after he took care of his broken wing.
+One day During a trip back from seeing his bird friend he stumbled onto a cave. He had walked around that area many times before and never seen it so he got curious. After a quick trip home to gather supplies for exploration, he ventured into the cave. He didn't expect too find much, but he had too se.
+He was stunned when he found a strange liquid at the lowest parts of the tunnel. He didn't recognise it but assumed it to be some kind of industrial waste. when he went too leave the cave he slipped and fell into the liquid. He realised that the liquid wasn't accidic at least, and crawled out as fast as possible. He crawled out of the cave, cleaned himself up and made his way home, wanting to take a shower to get rid of what still remained on him. During the coming days he found that he changed somewhat. His eyesight improved, he seemed too understand</Background>
+		<Strengths>The strange liquid made him "attune" to the last animal species he touched. (think tmnt but stranger)
+Having this "attunement" with a bird of prey, the falcon. gives him many advantages related to said bird. This Includes improved eyesight, allowing him to se whats happening from a lot farther away. Another power is the power of flight, achieved through a strange new abiltiy to shapeshift. This aerial advantage is great as few people look up most of the time. He also gained the ability too communicate with birds, which was useful with certain bird species.</Strengths>
+		<Weaknesses>The biggest weakness Falcon has is that while in flight mode. his bones become hollow. This makes it easier too stay up in the air but also makes him weaker to blunt force. Being lighter also means that he won't win a battle with pure strength. Forcing him to rely on speed and agility to fight when he needs to.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT24-16</employeeCode>
+		<name>Groot</name>
+		<signatureDate>01.08.2014</signatureDate>
+		<dateOfBirth>13.11.1960</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>ZX2</bloodType>
+		<height>7.01 m</height>
+		<weight>3720 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Groot: The Sentient Tree: Groot is a Flora Colossus, a massive, sentient, tree-like being whose exterior is composed of durable, regenerative wood. He is defined by his unwavering loyalty and gentle spirit, often serving as the moral heart of the unpredictable Guardians of the Galaxy. Despite his immense strength and ability to rapidly grow and manipulate his branches for attack or defense, he is only capable of speaking the phrase: "I am Groot." Though his vocabulary is limited, his best friend, the cynical Rocket Raccoon, can perfectly understand every complex emotion, plan, or simple thought conveyed through the unique tone and inflection of his three words. Groot is the ultimate symbol of self-sacrifice, having proven time and again that he will give everything to protect his chosen family.</Background>
+		<Strengths>Superhuman Strength and Durability: Groot is immensely strong, capable of lifting heavy objects and overpowering powerful enemies. His body, composed of dense wood, also grants him incredible resistance to damage. Regeneration/Regrowth: This is his signature ability. Groot can heal almost instantly from severe injuries and can completely regrow from a single twig or sapling if his body is destroyed. This makes him virtually immortal.</Strengths>
+		<Weaknesses>Limited Communication Ability: His most obvious weakness is his inability to speak more than "I am Groot." This makes it nearly impossible for new allies (and the audience) to understand his thoughts, plans, or emotions without Rocket as a translator. Vulnerability to Ranged/Aerial Attacks: Because he is so large and lacks quick movement, enemies who can attack from long range or the air can easily land damage on him.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT24-23</employeeCode>
+		<name>Lorna Dane</name>
+		<signatureDate>15.07.1982</signatureDate>
+		<dateOfBirth>15.07.1982</dateOfBirth>
+		<sex>F</sex>
+		<bloodType>B+</bloodType>
+		<height>170 cm</height>
+		<weight>52 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Lorna Dane, known as Polaris, is a mutant with magnetic powers and the daughter of Magneto, one of the most powerful mutants in existence. Growing up unaware of her heritage, she discovered her abilities during her teenage years when her powers manifested in moments of extreme emotion. After learning about her connection to Magneto, Lorna struggled with her identity, torn between following in her father's footsteps or forging her own path. She has been a member of various mutant teams including the X-Men and X-Factor, fighting to protect both mutants and humans while dealing with her complicated family legacy.</Background>
+		<Strengths>Lorna possesses the mutant ability to control magnetic fields, similar to her father Magneto but at a somewhat lesser scale. She can manipulate ferrous metals, create magnetic force fields for protection, and even fly by manipulating magnetic currents. Her powers allow her to sense and track metal objects across considerable distances. Beyond her abilities, Lorna has received combat training and strategic education through her work with various mutant teams. She has shown strong leadership capabilities when leading X-Factor and other groups. Her experience in dealing with both human and mutant conflicts has given her valuable diplomatic skills. Lorna's determination to prove herself independent of her father's shadow drives her to continuously improve and develop her abilities.</Strengths>
+		<Weaknesses>Lorna's powers are directly tied to her emotional state, and extreme emotional distress can cause her to lose control of her abilities, potentially endangering those around her. Her complex relationship with her father Magneto has been a source of psychological turmoil, leading to identity crises and questioning of her own moral compass. She has struggled with mental health issues including periods of depression and has been vulnerable to psychic manipulation due to her emotional vulnerabilities. The constant comparison to Magneto's greater power can undermine her confidence. Her green hair, a result of her magnetic aura, makes her easily identifiable and prevents her from operating covertly. Lorna's desire to prove herself can sometimes lead her to take unnecessary risks or make impulsive decisions.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-01</employeeCode>
+		<name>Diddy Kong</name>
+		<signatureDate>21.09.2009</signatureDate>
+		<dateOfBirth>21.09.2009</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>B+</bloodType>
+		<height>79 cm</height>
+		<weight>18 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Diddy Kong is a central character in the Donkey Kong franchise, known for his agility, courage, and mischievous personality. First introduced in Donkey Kong Country (1994), Diddy Kong is Donkey Kong's loyal nephew (or close friend, depending on the source). Despite his small stature, Diddy Kong proves to be a formidable hero. He plays a key role in rescuing Donkey Kong's banana hoard from the evil King K. Rool and the Kremling army. Throughout the Donkey Kong Country series, Diddy Kong's speed, dexterity, and determination complement Donkey Kong's strength, making them an unstoppable team.
+
+In Donkey Kong Country 2: Diddy Kong's Quest, Diddy Kong takes the lead role, alongside Dixie Kong, to rescue Donkey Kong after he is captured by King K. Rool. Diddy Kong's character is often portrayed as youthful, energetic, and brave, with a desire to prove himself as a hero in his own right. He is known for his iconic red cap and shirt, which symbolize his spunky and adventurous nature.</Background>
+		<Strengths>Diddy Kong is a highly versatile and agile character, often recognized for his speed, resourcefulness, and clever use of tools. His quick reflexes and nimble movements make him an excellent partner, complementing stronger characters like Donkey Kong. Diddy's signature peanut popguns and banana peels showcase his creativity in battle, while his jetpack grants him impressive mobility, allowing him to reach places others cannot. Despite his smaller size, he demonstrates determination, courage, and adaptability, proving that intelligence and agility can rival brute strength.</Strengths>
+		<Weaknesses>While Diddy Kong is fast and inventive, his weaknesses stem from his lack of raw strength and durability. Compared to larger allies like Donkey Kong, he struggles with heavy lifting and direct combat against stronger foes. His smaller size, while aiding agility, also makes him more vulnerable to powerful attacks. Additionally, his reliance on gadgets such as the jetpack or peanut popguns can leave him at a disadvantage if those tools fail or are taken away. These shortcomings highlight that Diddy often depends on strategy and support rather than sheer power.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-02</employeeCode>
+		<name>Jar Jar Binks</name>
+		<signatureDate>26.11.2003</signatureDate>
+		<dateOfBirth>26.11.2003</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>B</bloodType>
+		<height>1.96 m</height>
+		<weight>66 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Jar Jar Binks is a Gungan from the planet Naboo, introduced in Star Wars: Episode I - The Phantom Menace. Despite his clumsy nature, he played a crucial role in galactic events. After being exiled from his underwater home of Otoh Gunga, Jar Jar encountered Jedi Master Qui-Gon Jinn and Obi-Wan Kenobi, eventually helping them negotiate with the Gungan Grand Army. His actions were instrumental in the Battle of Naboo, where he served as a general. Later, as a representative of Naboo in the Galactic Senate, he inadvertently contributed to the rise of the Empire by proposing emergency powers for Chancellor Palpatine.</Background>
+		<Strengths>Jar Jar possesses remarkable agility and acrobatic skills, allowing him to navigate dangerous situations with surprising effectiveness. His deep knowledge of Gungan culture and underwater environments proved invaluable during critical missions. Despite his awkward demeanor, he showed courage when faced with battle, commanding troops during the liberation of Naboo. His ability to connect with people across different cultures helped bridge the gap between the Gungans and the Naboo people, ultimately leading to their alliance against the Trade Federation.</Strengths>
+		<Weaknesses>Jar Jar's most notable weakness is his extreme clumsiness, which often leads to accidental chaos and unintended consequences. His lack of formal military training made him an unreliable combatant, with many of his battlefield successes occurring through sheer luck rather than skill. His political naivety was exploited by Palpatine, leading him to unknowingly facilitate the transformation of the Republic into the Empire. This political manipulation has made him a controversial figure in galactic history, with many viewing him as a symbol of how good intentions can be corrupted by those with darker agendas.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-03</employeeCode>
+		<name>Red Widow</name>
+		<signatureDate>04.08.2017</signatureDate>
+		<dateOfBirth>04.08.2017</dateOfBirth>
+		<sex>F</sex>
+		<bloodType>A</bloodType>
+		<height>1.74 m</height>
+		<weight>70 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Red Widow is a highly skilled operative with expertise in espionage, combat, and intelligence gathering. Trained in various martial arts and weapons handling, she has served in numerous covert operations across different continents. Her background in special forces and intelligence agencies has made her one of the most effective field agents in her organization.</Background>
+		<Strengths>Red Widow excels in hand-to-hand combat, marksmanship, and tactical planning. Her ability to adapt to rapidly changing situations and think strategically under pressure makes her invaluable in high-stakes missions. She is fluent in multiple languages and skilled in various forms of infiltration and extraction techniques. Her physical conditioning and mental discipline allow her to endure extreme conditions and maintain focus during extended operations.</Strengths>
+		<Weaknesses>Despite her exceptional skills, Red Widow's emotional detachment can sometimes hinder her ability to work effectively in team settings. Her tendency to operate alone and her reluctance to trust others can create friction with colleagues. Additionally, her past experiences have left her with psychological scars that occasionally affect her judgment in situations that remind her of previous traumatic events.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-04</employeeCode>
+		<name>Beast Boy</name>
+		<signatureDate>22.02.2002</signatureDate>
+		<dateOfBirth>22.02.2002</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>O-</bloodType>
+		<height>172 cm</height>
+		<weight>68 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Garfield Logan, better known as Beast Boy, gained his powers after being bitten by a rare green monkey while on a science expedition with his parents in Africa. The bite would have been fatal, but his parents used an experimental serum that saved his life and gave him the ability to transform into any animal. After losing his parents, he was taken in by the Doom Patrol before eventually joining the Teen Titans. His green skin and hair are permanent side effects of the serum that saved his life.</Background>
+		<Strengths>Beast Boy's ability to transform into any animal gives him incredible versatility in combat and reconnaissance situations. He can become a massive elephant for strength, a cheetah for speed, a bird for flight, or even microscopic creatures for infiltration. His shape-shifting also makes him nearly impossible to restrain or contain. Beyond his powers, Beast Boy brings humor and levity to tense situations, helping maintain team morale. His empathy with animals allows him to communicate and coordinate with wildlife in ways others cannot.</Strengths>
+		<Weaknesses>Beast Boy's immaturity and tendency to not take things seriously can be a liability in critical situations. His reliance on his powers means his hand-to-hand combat skills without transformation are limited. When transformed, he takes on the mental limitations of the animal form, which can affect his judgment and strategic thinking. His emotional vulnerability, stemming from the loss of his parents and various traumas, can be exploited by enemies who understand his psychological weaknesses.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-05</employeeCode>
+		<name>Abigail Beethoven Sciuto</name>
+		<signatureDate>27.03.1969</signatureDate>
+		<dateOfBirth>27.03.1969</dateOfBirth>
+		<sex>F</sex>
+		<bloodType>AB-</bloodType>
+		<height>178 cm</height>
+		<weight>65 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Abby Sciuto is a highly skilled forensic scientist known for her expertise in various scientific disciplines including chemistry, physics, and computer science. She earned multiple degrees and became one of the most respected forensic specialists in her field. Her unique combination of gothic style and brilliant scientific mind makes her stand out in the professional community. She has been instrumental in solving countless cases through her meticulous analysis and innovative approaches to forensic science.</Background>
+		<Strengths>Abby possesses exceptional analytical skills and mastery of forensic techniques including DNA analysis, ballistics, toxicology, and digital forensics. Her ability to find connections between seemingly unrelated pieces of evidence has proven crucial in solving complex cases. She is highly proficient with advanced laboratory equipment and constantly stays updated with the latest scientific developments. Her enthusiasm and dedication to her work drive her to work long hours until she finds the answers needed. Additionally, her photographic memory and ability to recall minute details make her invaluable in investigations.</Strengths>
+		<Weaknesses>Abby's emotional attachment to cases and colleagues can sometimes cloud her scientific objectivity. Her tendency to become personally invested in investigations can lead to stress and burnout. She occasionally struggles with maintaining work-life balance, often sacrificing personal time for her cases. Her unconventional appearance and methods can sometimes clash with more traditional law enforcement approaches, creating friction with certain colleagues or superiors. Additionally, her sensitivity to caffeine-based energy drinks has led to several instances of over-caffeination affecting her sleep patterns.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-06</employeeCode>
+		<name>Nightwing</name>
+		<signatureDate>01.12.1996</signatureDate>
+		<dateOfBirth>01.12.1996</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>O+</bloodType>
+		<height>177 cm</height>
+		<weight>79 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Richard Grayson was the only child of Mary and John Grayson. When he was a child his family was part of a traveling circus as trapeze artists but his parents were murdered by a mafia boss who had a grudge against the circus owner. Richard saw his parents fall to their deaths during their circus act and was soon taken in by Bruce Wayne who had also seen the incident. After a while he found out that Bruce Wayne was Batman and began working as Batmans sidekick Robin. When Richard eventually outgrew Robin he became his own hero called Nightwing and became the leader of the superhero team Teen Titans, later renamed just Titans.</Background>
+		<Strengths>Elite Acrobat: Due to his background as an acrobat Nightwing has incredible agility and is fast on his feet.
+Good Intellect: Due to his prior training with Batman Nightwing is a good tactician, and has very good problem solving skills and is a wonderful detective aswell as being multilingual.
+Extensive martial arts training: He has been trained since childhood in various fighting styles and has incredible stamina.</Strengths>
+		<Weaknesses>He is very stubborn and extremely independent causing him to very rarely ask for help even when it is needed. He is prone to overworking himself to the point of near collapse.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-07</employeeCode>
+		<name>Stewie Griffin</name>
+		<signatureDate>11.09.1998</signatureDate>
+		<dateOfBirth>09.11.1998</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>AB-</bloodType>
+		<height>79 cm</height>
+		<weight>0.85 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Born to Peter and Lois Griffin in Quahog, Rhode Island. Despite his infant appearance, demonstrates exceptional intelligence and sophisticated vocabulary. Educated in advanced physics, engineering, and world domination strategies. Has constructed various devices including time machines and weather control systems. Maintains complex relationship with his mother and harbors plans for world conquest.</Background>
+		<Strengths>Genius-level intellect, advanced engineering and technological skills, strategic planning and tactical thinking, multilingual capabilities, leadership qualities, strong determination and focus, and creative problem-solving abilities.</Strengths>
+		<Weaknesses>Physical limitations due to infant body, overconfidence in plans, tendency to underestimate others, obsessive behavior patterns, difficulty with emotional regulation, dependency on technological solutions, and prone to elaborate but flawed schemes.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-08</employeeCode>
+		<name>Captain Jack Sparrow</name>
+		<signatureDate>09.08.1963</signatureDate>
+		<dateOfBirth>28.06.1956</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>B-</bloodType>
+		<height>178 cm</height>
+		<weight>66 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Department</department>
+		<Background>Captain Jack Sparrow is one of the most infamous pirates to sail the Caribbean. Born to Captain Teague, he was raised among pirates and learned the ways of the sea from a young age. After serving briefly with the East India Trading Company, Jack turned to piracy and captained the Black Pearl, one of the fastest ships in the Caribbean. His adventures have included encounters with cursed Aztec gold, the Flying Dutchman, and the Fountain of Youth. Known for his distinctive appearance and unorthodox methods, Jack has survived numerous seemingly impossible situations through a combination of luck, cunning, and unconventional thinking.</Background>
+		<Strengths>Jack Sparrow's greatest strength lies in his exceptional ability to improvise and think on his feet. His deep knowledge of maritime navigation, pirate lore, and hidden treasures makes him invaluable in seafaring ventures. He possesses remarkable charisma and negotiation skills, often talking his way out of dangerous situations. His unpredictability makes him difficult for enemies to anticipate or trap. Jack's experience with supernatural encounters and cursed artifacts gives him unique insights into mystical threats. Despite his apparent cowardice, he has shown genuine bravery when protecting those he cares about.</Strengths>
+		<Weaknesses>Jack's self-serving nature and tendency to prioritize his own survival can make him an unreliable ally. His love of rum and tendency toward intoxication can impair his judgment at critical moments. He often creates enemies through his schemes and double-crosses, leading to numerous people seeking revenge against him. His fear of commitment and inability to settle down has cost him potential allies and relationships. Jack's reputation as a trickster means few people trust him, even when he's being honest. His obsession with the Black Pearl and personal freedom can cloud his judgment and lead him into unnecessary danger.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-09</employeeCode>
+		<name>Sportacus</name>
+		<signatureDate>10.11.1964</signatureDate>
+		<dateOfBirth>10.11.1964</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>O+</bloodType>
+		<height>175 cm</height>
+		<weight>86 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Sportacus is a health and fitness enthusiast from LazyTown who dedicates his life to promoting physical activity and healthy living. As a superhero figure, he travels in his airship responding to calls for help from children. He is known as "Number 10" and is considered slightly above average in his heroic abilities. His mission is to encourage children to be active, eat healthy foods, and make positive life choices. He maintains peak physical condition through constant training and a strict diet of fruits and vegetables, which he calls "sports candy."</Background>
+		<Strengths>Sportacus possesses extraordinary athletic abilities including superhuman strength, agility, and acrobatic skills. His physical conditioning allows him to perform incredible feats such as backflips from standing position, wall-running, and precise ball control. He has exceptional reflexes and can catch objects mid-air with ease. His positive attitude and encouraging nature inspire children to adopt healthier lifestyles. Sportacus's resourcefulness allows him to use everyday objects as tools to overcome obstacles. His dedication to health means he's always at peak performance, and his crystal alerts him when someone is in trouble, allowing him to respond quickly to emergencies.</Strengths>
+		<Weaknesses>Sportacus's extreme dedication to health makes him vulnerable to sugar and unhealthy foods, which drain his energy and weaken him significantly. This dependence on "sports candy" (fruits and vegetables) means he must constantly maintain his diet to keep his strength. His strict adherence to healthy living can sometimes make him inflexible in his approach to problems. Sportacus can be overly trusting and naive, often failing to recognize when villains like Robbie Rotten are trying to trick him. His commitment to helping everyone means he can be easily distracted from larger goals by immediate calls for help. Additionally, his reliance on his crystal means he may not notice problems that don't trigger an alert.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-10</employeeCode>
+		<name>Jesse Pinkman</name>
+		<signatureDate>24.09.1984</signatureDate>
+		<dateOfBirth>24.09.1984</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>A-</bloodType>
+		<height>180 cm</height>
+		<weight>75 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Jesse's drug use led to him being estranged from his family and living a life on the streets. He became a small-time meth dealer before partnering with Walter White his former teacher to cook meth</Background>
+		<Strengths>Street smarts and empathy</Strengths>
+		<Weaknesses>Easy to manipulate</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-11</employeeCode>
+		<name>Arthur Dent</name>
+		<signatureDate>11.03.1990</signatureDate>
+		<dateOfBirth>01.02.1959</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>O+</bloodType>
+		<height>173 cm</height>
+		<weight>75 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Arthur Dent is a polite, down-to-earth human from the planet Earth, who narrowly escaped his home planet's destruction and was unwittingly launched into the chaotic expanse of the universe. 
+Alongside his eccentric best friend, Ford Prefect, Arthur spends several years stumbling from one crisis to another, often feeling completely out of his depth while trying to reconcile his old, simple life with the absurdities of space travel. 
+Despite the madness around him, he clings to the small comforts that ground him, like his deep love for a good cup of tea. 
+Over time, Arthur gradually finds a sense of fulfillment in the most unexpected of ways: as a sandwich maker, where the simple, earthly act of preparing food provides him with a surprising sense of purpose and control in a universe that often seems beyond comprehension.</Background>
+		<Strengths>Adaptability: Arthur demonstrates a surprising ability to adapt to new environments and bizarre circumstances, from alien planets to advanced technologies. 
+Though initially overwhelmed, he manages to adjust his expectations and behavior, gradually learning how to survive in a universe far removed from his normal life on Earth. 
+This adaptability is vital for his continued survival and progress.
+Flight: Arthur Dent possesses an unusual and almost accidental ability to fly, thanks to a bizarre piece of advice from the Hitchhiker's Guide to the Galaxy. The key to his flight isn't in mastering complicated techniques or controlling advanced technology, but rather in the simple concept of missing the ground. 
+When Arthur becomes airborne, he does so not by defying gravity with any special skill, but by completely forgetting about the Earth beneath him. Essentially, by no longer focusing on the idea of falling. It's an ability that requires a sort of mental release, where he lets go of the instinct to hold on to stability.</Strengths>
+		<Weaknesses>Averageness: Arthur Dent's greatest weakness might be his overwhelming averageness. 
+He is, in nearly every sense, a quintessential "everyman," with no extraordinary skills, talents, or characteristics to set him apart from anyone else. 
+This lack of distinction often leaves him at a disadvantage in the extraordinary universe he's thrown into. 
+While his ordinary nature allows him to blend in, it also makes him ill-equipped to handle the bizarre challenges he faces. 
+In moments where quick thinking, sharp wit, or specialized knowledge are crucial, Arthur's tendency to rely on basic common sense can hold him back, forcing him to be reactive rather than proactive.
+Indecisiveness: Another notable weakness in Arthur's abilities is his indecisiveness. 
+He tends to overanalyze and hesitate before taking action, which can hinder his effectiveness in urgent moments. 
+This hesitation sometimes results in missed opportunities or increased danger, as he is slow to commit to a course of acton</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-12</employeeCode>
+		<name>Mickey Mouse</name>
+		<signatureDate>18.11.1928</signatureDate>
+		<dateOfBirth>18.11.1928</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>0</bloodType>
+		<height>0.69</height>
+		<weight>10 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Mickey Mouse was created by Walt Disney and Ub Iwerks, making his debut on November 18, 1928 in the animated short Steamboat Willie. He quickly became the face of The Walt Disney Company and one of the most iconic cartoon characters in the world.</Background>
+		<Strengths>Mickey Mouse is brave, optimistic, and clever. He faces challenges head-on and never lets fear stop him from doing what's right. With his quick thinking and creativity, he always finds a way to solve problems, no matter how difficult they seem. Mickey's positive attitude helps him stay hopeful even in tough situations. He is also very caring and compassionate, always ready to support and help his friends whenever they need him. His kindness and loyalty make him a true friend and a beloved character around the world.</Strengths>
+		<Weaknesses>Mickey can be stubborn at times, holding firmly to his ideas even when it might be better to listen to others. Sometimes he acts before fully thinking things through, which can lead to unexpected problems. His trusting nature and occasional naivety mean he doesn't always see when someone might be trying to take advantage of him. Because of this, Mickey sometimes finds himself in tricky or challenging situations.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-13</employeeCode>
+		<name>Don Lorenzo</name>
+		<signatureDate>04.07.2006</signatureDate>
+		<dateOfBirth>04.07.2006</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>0-</bloodType>
+		<height>190 cm</height>
+		<weight>80 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Don Lorenzo is a distinguished figure known for his leadership and strategic acumen. Coming from a long lineage of influential leaders, he was groomed from an early age to take on positions of authority and responsibility. His education in business, politics, and diplomacy has prepared him for complex negotiations and organizational management. Throughout his career, he has demonstrated an ability to navigate challenging situations while maintaining strong ethical principles.</Background>
+		<Strengths>Don Lorenzo excels in strategic planning and possesses natural leadership abilities that inspire loyalty among his associates. His diplomatic skills allow him to negotiate effectively in high-pressure situations, often finding solutions that satisfy multiple parties. He has extensive knowledge of organizational structures and understands how to leverage resources efficiently. His ability to remain calm under pressure and make decisive choices has earned him respect in his field. Additionally, his network of contacts and relationships provides him with valuable intelligence and support when needed.</Strengths>
+		<Weaknesses>Don Lorenzo's adherence to traditional methods can sometimes prevent him from adapting to rapidly changing circumstances. His strong sense of honor and loyalty can be exploited by those willing to manipulate these values. He tends to trust his inner circle deeply, which can create blind spots when members prove disloyal. His reputation and public profile make him a target for rivals and can limit his ability to operate discreetly when necessary. Furthermore, his commitment to maintaining certain standards and protocols can slow decision-making processes during critical moments.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-14</employeeCode>
+		<name>Leon Kennedy</name>
+		<signatureDate>08.11.1977</signatureDate>
+		<dateOfBirth>23.07.1993</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>A</bloodType>
+		<height>180 cm</height>
+		<weight>75 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Leon S. Kennedy is a former Raccoon City police officer turned elite government agent. He began his career with the R.P.D. (Raccoon City Police Department), where he was caught in the midst of the infamous 1998 outbreak caused by the Umbrella Corporation. His survival and actions during the incident led to recruitment into a U.S. government agency tasked with bio-terrorism containment. Over two decades, Leon has become a highly skilled agent with extensive experience in counter-bioterrorism, hostage rescue, and high-risk diplomatic missions.</Background>
+		<Strengths>Leon possesses an extraordinary ability to remain composed and strategic under pressure, making him one of the most effective agents in high-stakes, unpredictable environments. His combat skills-ranging from firearms proficiency to hand-to-hand techniques are the product of years of frontline exposure and tactical training. He's also highly adaptive, capable of using his surroundings to his advantage in ways that surpass standard protocol. Leon is multilingual and maintains strong investigative instincts, often identifying threats before they escalate. His sense of duty is unwavering, and he consistently places the mission and the safety of others above personal risk.</Strengths>
+		<Weaknesses>Despite his strengths, Leon is not without vulnerabilities. Years of exposure to biological horrors and covert warfare have left psychological scars that manifest as insomnia, emotional detachment, and signs of chronic stress. He has a tendency to shoulder responsibilities alone, often refusing assistance even when collaboration would be more efficient. Leon also exhibits signs of cynicism and mistrust, particularly toward corporations and authority figures an understandable but potentially limiting mindset in cooperative operations. His drive to complete missions at any cost can sometimes border on recklessness, especially when innocent lives are at stake.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-15</employeeCode>
+		<name>Harrier Du Bois</name>
+		<signatureDate>09.09.1981</signatureDate>
+		<dateOfBirth>09.09.1981</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>AB+</bloodType>
+		<height>180 cm</height>
+		<weight>93 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Harrier Du Bois is a lieutenant detective working for the Revachol Citizens Militia (RCM) in the district of Martinaise. Once a highly skilled investigator, Harrier has become infamous for his erratic behavior, substance abuse, and dramatic personal decline. After a catastrophic personal breakdown triggered by a failed romantic relationship, he went on a multi-day alcohol and drug binge that resulted in complete memory loss. When he wakes up in a trashed hostel room with no recollection of who he is, Harrier must piece together his identity while investigating a murder case. Despite his amnesia and deteriorating mental state, fragments of his exceptional detective skills remain, allowing him to approach cases from unconventional angles. His mind is a battleground of competing internal voices representing different aspects of his psyche, from logic and empathy to authority and physical prowess.</Background>
+		<Strengths>Exceptional Detective Skills: Even in his compromised state, Harrier possesses remarkable investigative abilities, able to notice details others miss and connect disparate pieces of evidence in creative ways. His intuition and deductive reasoning can be brilliant when he's focused. Versatile Skill Set: Harrier can develop expertise in multiple areas depending on his focus—from intellectual pursuits like logic and encyclopedia knowledge to physical abilities like pain tolerance and physical instrument, to interpersonal skills like empathy and suggestion. Unconventional Thinking: His fractured mind allows him to approach problems from unique perspectives that more conventional detectives might never consider. This can lead to breakthrough insights. Resilience: Despite his many failures and ongoing struggles, Harrier continues to push forward. His ability to endure physical and emotional pain is remarkable. Empathy: When he taps into his empathic abilities, Harrier can understand people on a deep emotional level, making him effective at interrogations and understanding human motivations.</Strengths>
+		<Weaknesses>Substance Abuse: Harrier has a severe addiction to alcohol and drugs, which has destroyed his health, relationships, and career. His dependency makes him unreliable and prone to self-destructive behavior. Mental Instability: His psyche is fractured, with competing internal voices that can lead to confusion, poor decision-making, and erratic behavior. He struggles with depression, self-loathing, and possible personality disorders. Memory Loss: The amnesia resulting from his breakdown leaves him vulnerable and without context for his relationships, past decisions, or reputation. Physical Deterioration: Years of substance abuse have taken a toll on his body. He suffers from poor health, tremors, and reduced physical capabilities. Damaged Relationships: Harrier has burned bridges with colleagues, friends, and romantic partners. His reputation precedes him, and many people view him with suspicion, pity, or contempt. Self-Destructive Tendencies: Harrier is prone to making choices that harm himself and others, whether through reckless behavior, inappropriate comments, or dwelling on his failures rather than moving forward.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-16</employeeCode>
+		<name>Yeon Si-eun</name>
+		<signatureDate>05.10.2004</signatureDate>
+		<dateOfBirth>05.10.2004</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>B</bloodType>
+		<height>170 cm</height>
+		<weight>60 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Yeon Si-eun is a high school student known for his exceptional intelligence and academic prowess. Despite being physically weaker and smaller than his peers, Si-eun has always relied on his brilliant mind to navigate the challenges of school life. He is a model student who consistently ranks at the top of his class, but his success comes at a cost—he's socially isolated and frequently targeted by bullies who see him as an easy mark. Si-eun's life takes a dramatic turn when he befriends Ahn Su-ho and Oh Beom-seok, forming an unlikely alliance. After experiencing brutal bullying, Si-eun realizes that intelligence alone isn't enough to survive, and he begins to learn how to fight back, both physically and strategically. His analytical mind allows him to study fighting techniques methodically, turning his weakness into a calculated strength.</Background>
+		<Strengths>Exceptional Intelligence: Si-eun possesses remarkable analytical and problem-solving abilities. He can quickly understand complex situations, devise strategies, and find creative solutions to problems that would stump others. Academic Excellence: His dedication to studying has made him one of the top students in his school, with deep knowledge across multiple subjects that he can apply practically. Strategic Thinking: Si-eun approaches conflicts like chess matches, analyzing opponents' patterns, weaknesses, and motivations to gain advantages despite physical disadvantages. Adaptability: When faced with the reality that intelligence alone won't protect him, Si-eun demonstrates remarkable ability to learn new skills, including martial arts and self-defense. Loyalty: Once Si-eun forms genuine friendships, he is deeply loyal and willing to put himself at risk to protect those he cares about. Observation Skills: He notices details others miss, allowing him to read situations and people effectively.</Strengths>
+		<Weaknesses>Physical Weakness: Si-eun lacks natural physical strength and athletic ability, making him vulnerable in direct physical confrontations, especially at the beginning of his journey. Social Isolation: His focus on academics and his introverted nature have left him with poor social skills and few friends, making him an easy target for bullies. Emotional Vulnerability: Despite his intellectual armor, Si-eun is emotionally fragile and deeply affected by betrayal, rejection, and violence. Overthinking: His analytical mind sometimes leads to paralysis by analysis, where he overcomplicates situations or hesitates when quick action is needed. Pride and Stubbornness: Si-eun's intelligence can make him overconfident in his assessments, and he sometimes refuses help or refuses to back down even when it would be wiser to do so. Trust Issues: His experiences with bullying and betrayal make it difficult for him to trust others, limiting his ability to form alliances or accept support.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-17</employeeCode>
+		<name>Oliver Queen</name>
+		<signatureDate>16.05.1985</signatureDate>
+		<dateOfBirth>16.05.1985</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>AB-</bloodType>
+		<height>180 cm</height>
+		<weight>88 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Oliver Queen was a billionaire playboy who was stranded on a hostile island after a shipwreck that killed his father. During his five years on the island, he was forced to develop survival skills and became a master archer and fighter. He also encountered various dangerous individuals who shaped him into a warrior. Upon his return to Star City, Oliver adopted the vigilante persona of the Green Arrow to fight crime and corruption while honoring his father's dying wish to save their city. His experiences transformed him from a carefree heir into a disciplined guardian.</Background>
+		<Strengths>Oliver Queen is a master archer with near-perfect accuracy, capable of hitting targets from incredible distances and in challenging conditions. His hand-to-hand combat skills are exceptional, trained in multiple martial arts disciplines. He possesses peak human physical conditioning, with extraordinary strength, speed, and agility. Oliver's tactical mind allows him to plan complex operations and adapt to changing battle conditions. His experience on the island and subsequent missions has given him advanced survival skills and the ability to improvise weapons and tools. He demonstrates strong leadership abilities and has successfully led teams of skilled operatives. His wealth provides him access to advanced technology and resources to support his vigilante activities.</Strengths>
+		<Weaknesses>Oliver's traumatic past and the moral weight of his actions often lead to emotional isolation and difficulty maintaining personal relationships. His tendency to shoulder burdens alone can prevent him from seeking help when needed, potentially compromising missions. The strict moral code he develops can sometimes conflict with pragmatic solutions, creating internal struggles about the right course of action. His public identity as a billionaire makes him a target and limits his operational flexibility. Oliver's protective nature toward those he cares about can be exploited by enemies who use his loved ones against him. His history of darkness and the extreme methods he sometimes employed early in his career continue to haunt him and affect his reputation among both allies and enemies.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-18</employeeCode>
+		<name>Mr Sock</name>
+		<signatureDate>06.01.2230</signatureDate>
+		<dateOfBirth>06.01.2230</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>T-</bloodType>
+		<height>185 cm</height>
+		<weight>80 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Mr. Sock is a sentient sock puppet who mysteriously gained consciousness aboard the starship USS Enterprise. Originally part of a theater production put on by the crew during a long-term deep space mission in the 23rd century, Mr. Sock inexplicably developed self-awareness following exposure to an unusual subspace anomaly. Despite being a simple hand puppet made of fabric and buttons, Mr. Sock possesses sophisticated intelligence and the ability to communicate through an unknown telepathic or technological interface. The crew, led by Captain Kirk, decided to accept Mr. Sock as a crew member after recognizing his unique perspective and analytical capabilities. Mr. Sock has since become an unofficial consultant on various missions, offering insights that only a being of his peculiar nature could provide. His origins remain a mystery—whether he's the result of an advanced alien experiment, a manifestation of collective consciousness, or simply a cosmic joke.</Background>
+		<Strengths>Unique Perspective: As a sentient sock puppet, Mr. Sock views problems from angles that biological or artificial intelligences might never consider, leading to creative solutions. Immunity to Physical Threats: Mr. Sock has no biological systems to damage—he doesn't breathe, eat, or have organs that can fail. He's immune to toxins, diseases, and many environmental hazards. Underestimated: Enemies and allies alike tend to dismiss Mr. Sock as harmless or absurd, giving him tactical advantages in negotiations and intelligence gathering. Pattern Recognition: Mr. Sock has demonstrated exceptional ability to identify patterns in data and behavior, making him valuable in analyzing complex situations. Adaptability: Having no fixed form or biological needs, Mr. Sock can function in environments that would be lethal to most crew members. Psychological Insight: His unusual nature allows him to understand psychological dynamics in unique ways, making him effective at conflict resolution and counseling.</Strengths>
+		<Weaknesses>Physical Limitations: Mr. Sock lacks hands, legs, or any ability to manipulate the physical environment without assistance. He requires a crew member to physically transport and manipulate objects for him. Dependency on Others: He must rely entirely on crew members to move around the ship, operate equipment, or take any physical action. Communication Barriers: While Mr. Sock can communicate, some species and individuals find it difficult to take a sock puppet seriously, limiting his effectiveness in diplomatic or command situations. Vulnerability to Damage: Despite immunity to biological threats, Mr. Sock can be easily damaged by physical force—torn, burned, or destroyed by conventional means. Limited Sensory Input: Mr. Sock's sensory capabilities are mysterious and possibly limited compared to biological beings, potentially missing important environmental cues. Existential Uncertainty: The mystery of his existence sometimes causes crew members to question his nature, leading to trust issues or philosophical dilemmas that complicate his integration.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-19</employeeCode>
+		<name>Sergei Dragunov</name>
+		<signatureDate>10.09.1981</signatureDate>
+		<dateOfBirth>10.09.1981</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>B</bloodType>
+		<height>192 cm</height>
+		<weight>98 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Dragunov is a member of an elite special operations unit in the Russian military. This role has put him in conflict with parties including the United Nations officers Raven and Master Raven, and earned him the moniker "The White Angel of Death".</Background>
+		<Strengths>Dragunov fights using Commando Sambo; a modified offensive style of Sambo used and trained by members of the Russian army to defend one's self in a hand-to-hand combat situation.Sambo as a sport focuses on throwing and submissions whilst restricting chokeholds. Commando Sambo differs from the sport variation as users are given the privilege of punching, kicking and the intention of fracturing bones. The punching and kicking motions are derived from Mixed Martial Arts techniques.</Strengths>
+		<Weaknesses>His reliance on certain moves like D+2 can be exploited, and his approaches, particularly WR+2, are linear and vulnerable to sidestepping. He also lacks strong keepout tools and may struggle with his defensive options due to his strong offensive capabilities.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-20</employeeCode>
+		<name>Dante</name>
+		<signatureDate>27.10.1967</signatureDate>
+		<dateOfBirth>27.10.1967</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>B</bloodType>
+		<height>185 cm</height>
+		<weight>75 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Dante is a legendary devil hunter and the son of the demon Sparda and human Eva. Born as a half-demon (Nephilim), Dante possesses extraordinary supernatural abilities inherited from his father, who famously rebelled against the demon world to protect humanity. After witnessing his mother's murder by demons as a child and losing his twin brother Vergil, Dante dedicated his life to hunting demons while running a struggling demon-hunting business called "Devil May Cry." Despite his tragic past, Dante maintains a carefree and cocky attitude, often making jokes and taunting enemies during combat. He wields his signature weapons: Rebellion (his sword), Ebony and Ivory (his dual pistols), and various Devil Arms acquired from defeated demons. Throughout his adventures, Dante has stopped numerous apocalyptic threats, battled his estranged brother, and discovered the true meaning of his father's legacy.</Background>
+		<Strengths>Superhuman Physical Abilities: As a half-demon, Dante possesses incredible strength, speed, agility, and durability far beyond human limits. He can withstand devastating attacks and regenerate from severe injuries. Devil Trigger: Dante can tap into his demonic heritage to transform into a more powerful demon form, dramatically enhancing all his abilities and granting him flight and energy projection. Master Combatant: Dante is exceptionally skilled in both armed and unarmed combat, seamlessly switching between multiple weapons and fighting styles mid-battle with unparalleled fluidity. Weapon Mastery: He can expertly wield virtually any weapon, from swords and guns to exotic Devil Arms, often dual-wielding and combining weapons in creative ways. Quick Reflexes and Instincts: Dante's combat instincts are razor-sharp, allowing him to react instantly to threats and improvise in chaotic situations. Immortality: Due to his demonic blood, Dante ages extremely slowly and is nearly impossible to kill permanently.</Strengths>
+		<Weaknesses>Reckless and Overconfident: Dante's cocky attitude often leads him to underestimate opponents or take unnecessary risks, which can put him in dangerous situations. Financial Irresponsibility: Despite his skills, Dante is perpetually broke due to poor money management and spending habits, often taking jobs just to pay rent or settle debts. Emotional Vulnerability: While he hides it behind humor and bravado, Dante carries deep trauma from his mother's death and complicated feelings about his brother Vergil, which can be exploited. Limited Range: While powerful, most of Dante's abilities are most effective in close to mid-range combat. Against extremely long-range or strategic opponents, he may be at a disadvantage. Demonic Energy Consumption: Using Devil Trigger and other powerful abilities drains his demonic energy, and prolonged use can exhaust him. Attachment Issues: Dante struggles to maintain close relationships, often pushing people away or keeping them at a distance due to fear of loss, which can leave him isolated.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-21</employeeCode>
+		<name>Stål Kalle</name>
+		<signatureDate>09.06.1920</signatureDate>
+		<dateOfBirth>09.06.1920</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>AB-</bloodType>
+		<height>102 cm</height>
+		<weight>7.2 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Kalle Anka ärver ett gammalt hus av en mystisk släkting, Fantomias. Där hittar han gömda redskap, vapen och en hemlig dräkt. Han ikläder sig den nya identiteten och börjar sin karriär som en slags hämnare. Stål Kalle började som en anti-hero som använde sin hemliga identitet för att hämnas på dom som tyckte illa om hans riktiga person. Men med tiden utvecklas han och blir en riktig superhjälte som kämpar för rättvisa.</Background>
+		<Strengths>Han har kontakter som kan fixa ny utrustning och hjälpa till i hans superhjälte arbete. Oppfinnar-Jocke bygger många av Stål Kalles vapen och fordon. Stål Kalle är, trots sin riktiga person, modig och hjälteinriktad. Han är också listig och förvånansvärt smart.</Strengths>
+		<Weaknesses>Stål Kalle är fortfarande en vanlig med borgare och har inga övernaturliga krafter, vilket kan göra honom väldigt sårbar utan sina prylar.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-22</employeeCode>
+		<name>Tecna</name>
+		<signatureDate>18.08.2025</signatureDate>
+		<dateOfBirth>18.08.2025</dateOfBirth>
+		<sex>F</sex>
+		<bloodType>O-</bloodType>
+		<height>12 cm</height>
+		<weight>0.12 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Tecna is the Fairy of Technology and a founding member of the Winx Club. She hails from the planet Zenith, a highly advanced world driven by logic and technology. Tecna is known for her intelligence, analytical mind, and calm demeanor. She attends Alfea College for Fairies, where she hones her magical abilities alongside her friends.</Background>
+		<Strengths>Highly Intelligent: Tecna is a tech genius, often creating gadgets or solving complex problems using logic. Strategic Thinker: She is the group's problem-solver and often takes a rational approach to challenges. Technomagic Powers: She can control and manipulate digital and electronic systems. Loyal Friend: Though logical, she deeply cares for her friends and supports them when it matters most. Calm Under Pressure: Rarely panics and often provides stability in high-stress situations.</Strengths>
+		<Weaknesses>Emotionally Reserved: She struggles to express her feelings, which can make her seem distant. Overly Logical: Sometimes relies too much on logic and has difficulty understanding emotional or irrational behavior. Social Challenges: Her tech-savvy and rational nature can isolate her in emotional conversations or group dynamics. Risk of Isolation: Because she values independence and efficiency, she may push others away unintentionally.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-23</employeeCode>
+		<name>Darth Revan</name>
+		<signatureDate>05.08.1966</signatureDate>
+		<dateOfBirth>05.08.1966</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>Unknown</bloodType>
+		<height>185 cm</height>
+		<weight>87 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Initially a respected Jedi, he defied the Jedi Council by leading a faction of Jedi Knights into the Mandalorian Wars, becoming a celebrated war hero. Driven by a desire to defeat the Mandalorians, he delved into the Unknown Regions and discovered an ancient Sith Empire, ultimately falling to the dark side and becoming Darth Revan.</Background>
+		<Strengths>Exceptional mastery of both the light and dark sides of the Force, his strategic brilliance, and his formidable lightsaber combat skills</Strengths>
+		<Weaknesses>Darth Revan's primary weakness was his overconfidence and arrogance.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-24</employeeCode>
+		<name>Gandalf</name>
+		<signatureDate>01.01.0001</signatureDate>
+		<dateOfBirth>01.01.0001</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>N/A</bloodType>
+		<height>180 cm</height>
+		<weight>80 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Gandalf is one of the Istari (Wizards) sent by the Valar to Middle-earth to guide its peoples against Sauron. Known by many names (Mithrandir, Olórin, Grey Pilgrim). Wandered across Middle-earth, gathering knowledge, offering counsel, and uniting Free Peoples. Played a decisive role in the downfall of Sauron during the War of the Ring.</Background>
+		<Strengths>Great wisdom and knowledge. Skilled in magic, persuasion, and leadership. Inspires hope and courage in others. Strategic thinker and long-term planner. Strong moral compass and resilience.</Strengths>
+		<Weaknesses>Cannot directly dominate others (bound by the rules of the Istari). Sometimes secretive or cryptic in communication. Limited patience with foolishness (quick temper at times). Physically vulnerable compared to other beings (not invincible).</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-25</employeeCode>
+		<name>Neo</name>
+		<signatureDate>11.03.1962</signatureDate>
+		<dateOfBirth>11.03.1962</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>O+</bloodType>
+		<height>178 cm</height>
+		<weight>89 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>In his normal life, he is a quiet programmer for the "respectable software company" Meta Cortex, while in private, he is a computer hacker who penetrates computer systems illicitly and steals information under his hacker alias "Neo". He also sells illegal untraceable computer systems and hacking programs along with controlling computer viruses stashed on CDs and diskettes. During his time as a hacker, Anderson has learned about something known only as "The Matrix".</Background>
+		<Strengths>Super Speed (Bullet Time)
+Superhuman Strength
+Flight
+Near-Invulnerability
+Matrix Vision
+Telekinesis
+Phasing
+Precognition and Awareness</Strengths>
+		<Weaknesses>Neo's flaw is that he won't accept that he is The One. In terms of wants and needs, he wants to believe that he's not special (and the Oracle reinforces this when she tells him he isn't). But he needs to believe, because until he does he doesn't stand a chance against Agent Smith. So his wants and needs conflict.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-26</employeeCode>
+		<name>Feathers McGraw</name>
+		<signatureDate>01.01.1993</signatureDate>
+		<dateOfBirth>01.01.1993</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>B-</bloodType>
+		<height>90 cm</height>
+		<weight>5.4 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Feathers McGraw is a slick, silent penguin who doesn't say a word, but his actions speak for him. He first showed up in The Wrong Trousers, where he quickly became a notorious villain. Feathers isn't just any penguin; he's a smooth operator with a knack for stealing and getting away with it, all while staying out of sight. He's got a sharp mind, and he's always one step ahead of the people trying to stop him.</Background>
+		<Strengths>Stealth: Feathers is great at sneaking around unnoticed. He can blend in, use disguises, and stay hidden until it's time to strike. Brains: He's smart, always thinking of clever ways to pull off a crime or get out of a tight spot. He doesn't rely on force, just his wits. Silent but Deadly: Even though he never speaks, Feathers is great at communicating through his actions and expressions. He makes people nervous without saying a word. Quick on His Feet: Whether it's stealing something or escaping, he's adaptable and able to come up with a plan on the fly. Feathers McGraw is the kind of villain who doesn't need to shout to be feared. He's quiet, clever, and always in control.</Strengths>
+		<Weaknesses>Feathers McGraw has a few weaknesses that even his cleverness can't hide. He's often overconfident, believing he's always the smartest one in the room, which can lead to careless mistakes. His focus on winning can make him miss important details. He also tends to underestimate Gromit, not realizing how sharp the dog actually is. While Feathers is a mastermind, he's not physically strong, so if he gets caught off guard, he can struggle to break free. Finally, his impatience can get the best of him. When things don't go as planned, he tends to act too quickly, making decisions that end up backfiring.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-27</employeeCode>
+		<name>The Void</name>
+		<signatureDate>01.01.1600</signatureDate>
+		<dateOfBirth>01.01.1600</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>A</bloodType>
+		<height>200 cm</height>
+		<weight>200 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Though the exact origin of the Void is unknown, his first activities were seemingly traced all the way back to circa 1600 BCE, when Moses pleaded for every Hebrew doorpost to be marked with lamb's blood in order to protect the Jewish firstborn from the final plague God was going to bring on Pharaoh Ramses and on Egypt: the Angel of Death, believed to be the Void himself (though other beings have been told to be that entity).</Background>
+		<Strengths>Matter Manipulation: The Void possesses similar matter and energy manipulation abilities as the Sentry. Having used it to entrap the Avengers within an inescapable shroud of black matter he had conjured up, material easily able to hold the likes of Thor and Giant-Man with ease. At its most focused i.e. through his tendrils, the Void can cause total atomic cancellation within a target, as he did when he disintegrated the immortal Loki. Regeneration: The Void can heal himself from virtually all injuries. Resurrection: The Void appears to be able to resurrect himself and to bring the dead back to life under extreme emotional distress.</Strengths>
+		<Weaknesses>Magic: The Void can be sealed with powerful magic, as was done by Doctor Strange. Chi: The Void was proven to be vulnerable to spiritual energy attacks like Chi. Domination of darkness: The Void being technically a dark entity, any deity with control over other beings of darkness can bend his will.</Weaknesses>
+	</employee>
+	<employee>
+		<employeeCode>IT25-28</employeeCode>
+		<name>Mr Robot</name>
+		<signatureDate>17.09.1986</signatureDate>
+		<dateOfBirth>17.09.1986</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>O-</bloodType>
+		<height>1.78</height>
+		<weight>68</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+		<Background>Senior Cybersecurity Engineer at Allsafe Cybersecurity. Formerly employed at a unnamed convenience store. Diagnosed with social anxiety disorder, clinical depression, and delusions. Subject to morphine withdrawals. I don't know if that's in the file. Probably not. They never get it right. I hack people. I see the worst in them. I use that information. Sometimes I use it to help them. Usually, I use it to hurt them. This company is part of the problem. That's why I'm here.</Background>
+		<Strengths>Identifying systemic vulnerabilities in both code and human psychology. Social engineering. Cryptography. Anonymity. I can see the lines of code that make up the world. I don't get caught. Unless I want to.</Strengths>
+		<Weaknesses>Paranoia. Trust issues. Difficulty with human connection. Withdrawal symptoms. A compulsive need to control my environment and save "people I can't always tell what's real. Especially right now. The constant conflict between his different personalities can sabotage his own goals, making him unpredictable and vulnerable to manipulation. Struggles to trust people and form meaningful connections, leading to a deeply isolated existence.</Weaknesses>
+	</employee>
+</personnelRegistry>

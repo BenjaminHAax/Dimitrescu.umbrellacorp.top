@@ -1,0 +1,105 @@
+#table-virus
+{
+    width: 716px;
+    display: table;
+    font-size: 12px;
+    font-family : Arial, Verdana, Geneva, Helvetica, sans-serif;
+    color: #000000;
+}
+#table-header
+{
+    display: table-header-group;
+    height: 30px;
+}
+.table-header-cell-right, .table-header-cell-left, .table-header-cell-center,
+.table-header-cell-middle, .table-header-cell-edit, .table-header-cell-delete
+{
+    display: table-cell;
+    /*border: 1px solid;*/
+    border-color: #000000;
+    border-collapse: collapse;
+    vertical-align: middle;
+    font-weight: bold;
+    padding: 5px;
+}
+.table-header-cell-right
+{
+    text-align: right;
+}
+.table-header-cell-left
+{
+    text-align: left;
+}
+.table-header-cell-center
+{
+    text-align: center;
+}
+.table-body{
+    display: table-row-group;
+}
+.resp-table-row
+{
+    display: table-row;
+}
+.table-header-cell-middle
+{
+    text-align: center;
+}
+.table-header-cell-edit, .table-header-cell-delete
+{
+    text-align: center;
+    width: 30px;
+}
+.table-body-cell-right, .table-body-cell-left, .table-body-cell-center,
+.table-body-cell-middle, .table-body-cell-edit, .table-body-cell-delete
+{
+    display: table-cell;
+    /*border: 1px solid;*/
+    border-color: #000000;
+    border-collapse: collapse;
+    vertical-align: middle;
+    padding: 5px;
+}
+.table-body-cell-right
+{
+    text-align: right;
+}
+.table-body-cell-left
+{
+    text-align: left;
+}
+.table-body-cell-center
+{
+    text-align: center;
+}
+.table-body-cell-middle
+{
+    text-align: center;
+}
+.table-body-cell-edit, .table-body-cell-delete
+{
+    text-align: center;
+    border: none;
+    width: 30px;
+    padding: 5px;
+}
+.table-body-cell-edit a, .table-body-cell-delete a
+{
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 22px;
+    font-size: 13px;
+    text-decoration: none;
+    color: #ffffff;
+}
+.table-body-cell-edit a
+{
+    background-color: #44aa44;
+}
+.table-body-cell-delete a
+{
+    background-color: #cc2222;
+}

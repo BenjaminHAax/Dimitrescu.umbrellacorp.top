@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<notes> 
+    <note>
+        <to>Ege</to>
+        <from>Jawad</from>
+        <heading>Lotta</heading>
+        <body>Jag klarar inte Lotta längre.</body>
+        <date>2025-12-30</date>
+        <hour>15:00</hour>
+    </note>
+    
+    <note>
+        <to>Jawad</to>
+        <from>Ege</from>
+        <heading>Lotta</heading>
+        <body>Du får skriva tillbud.</body>
+        <date>2025-12-30</date>
+        <hour>15:07</hour>
+    </note>
+</notes>

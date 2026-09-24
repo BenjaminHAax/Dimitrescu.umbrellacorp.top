@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "Date_of_birth": "01.01.0001",
+    "Name": "Gandalf",
+    "Sex": "M",
+    "Height": "180cm",
+    "Weight": "80kg",
+    "Blood_type": "N/A",
+    "Rank": "Junior Data Analyst",
+    "Security_level": "C",
+    "Signature": "Gandalf",
+    "Date": "01.01.0001",
+    "Employee_code": "IT25-24",
+    "Department": "Medical Data Department",
+    "Background": "Gandalf is one of the Istari (Wizards) sent by the Valar to Middle-earth to guide its peoples against Sauron. Known by many names (Mithrandir, Olórin, Grey Pilgrim). Wandered across Middle-earth, gathering knowledge, offering counsel, and uniting Free Peoples. Played a decisive role in the downfall of Sauron during the War of the Ring.",
+    "Strengths": "Great wisdom and knowledge. Skilled in magic, persuasion, and leadership. Inspires hope and courage in others. Strategic thinker and long-term planner. Strong moral compass and resilience.",
+    "Weaknesses": "Cannot directly dominate others (bound by the rules of the Istari). Sometimes secretive or cryptic in communication. Limited patience with foolishness (quick temper at times). Physically vulnerable compared to other beings (not invincible)."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "Date_of_birth": "04.08.2017",
+    "Name": "Red Widow",
+    "Sex": "F",
+    "Height": "1.74m",
+    "Weight": "70kg",
+    "Blood_type": "A",
+    "Rank": "Junior Data Analyst",
+    "Security_level": "C",
+    "Signature": "Red Widow",
+    "Date": "04.08.2017",
+    "Employee_code": "IT25-03",
+    "Department": "Medical Data Department",
+    "Background": "Red Widow is a highly skilled operative with expertise in espionage, combat, and intelligence gathering. Trained in various martial arts and weapons handling, she has served in numerous covert operations across different continents. Her background in special forces and intelligence agencies has made her one of the most effective field agents in her organization.",
+    "Strengths": "Red Widow excels in hand-to-hand combat, marksmanship, and tactical planning. Her ability to adapt to rapidly changing situations and think strategically under pressure makes her invaluable in high-stakes missions. She is fluent in multiple languages and skilled in various forms of infiltration and extraction techniques. Her physical conditioning and mental discipline allow her to endure extreme conditions and maintain focus during extended operations.",
+    "Weaknesses": "Despite her exceptional skills, Red Widow's emotional detachment can sometimes hinder her ability to work effectively in team settings. Her tendency to operate alone and her reluctance to trust others can create friction with colleagues. Additionally, her past experiences have left her with psychological scars that occasionally affect her judgment in situations that remind her of previous traumatic events."
+  }
+}

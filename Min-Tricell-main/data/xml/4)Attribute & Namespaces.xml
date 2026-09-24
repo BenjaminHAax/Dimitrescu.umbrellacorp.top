@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root xmlns:d="https://www.w3.org/TR/html4" xmlns:s="http://www.fehmiuyar.net/susema">
+
+    <persons> 
+
+        <person gender="female">Fahri Bozkurt</person>
+        <person gender="female">Ida Bolag</person>
+        <person name="Ege &quot;Can&quot; Özdemir"></person>
+        <person name='Ege "Can" Özdemir'></person>
+        <!-- Viktiga egenskaper tas som element. -->
+        <!-- Mindre viktiga egenskaper skriv som attribut -->
+
+        <d:table>
+            <d:tr>
+                <d:td>Youtube.com</d:td>
+                <d:td>Youtube.com</d:td>
+            </d:tr>
+        </d:table>
+
+         <s:table>
+            <s:tr>
+                <s:td>Youtube.com</s:td>
+                <s:td>Youtube.com</s:td>
+            </s:tr>
+        </s:table>
+
+    </persons>
+    
+
+</root>

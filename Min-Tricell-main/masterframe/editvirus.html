@@ -1,0 +1,54 @@
+<div id="ev-container">
+
+    <div id="ev-header">
+        <div id="ev-title">
+            <span id="ev-number">!{virusnumber}</span> <span>!{virusname}</span>
+        </div>
+        <div id="ev-meta">
+            Created !{createdate}<br>
+            By !{creator}
+        </div>
+    </div>
+
+    <form id="editvirusform" name="editvirusform" method="post" enctype="multipart/form-data" action="http://localhost:3000/api/editvirus/!{id}" onsubmit="return formCheckNewVirus()">
+        <textarea name="fdescription" id="fdescription" wrap="off">!{description}</textarea>
+        <br>
+        <input type="submit" id="ev-submit" value="Edit Info">
+    </form>
+
+    <table id="ev-files-table">
+        <tr>
+            <td colspan="4" style="border:0;"></td>
+            <td class="ev-col-header">Edit</td>
+            <td class="ev-col-header">Delete</td>
+        </tr>
+        <tr>
+            <td class="ev-label">Security data sheet:</td>
+            <td>!{viruspdf}</td>
+            <td></td>
+            <td></td>
+            <td class="ev-action-edit"><a href="#" onclick="document.getElementById('ev-pdf-upload').click(); return false;">&#9998;</a></td>
+            <td class="ev-action-delete"><a href="http://localhost:3000/api/deletevirus/deletepdf/!{encodeURIComponent(virusnumber)}" return false;">&#x2715;</a></td>
+        </tr>
+        <tr>
+            <td class="ev-label">Security Presentation Video:</td>
+            <td id="virusvideo">!{virusvideo}</td>
+            <td colspan="2"></td>
+            <td class="ev-action-edit"><a href="#" onclick="editVideoLink('!{virusnumber}', 'presentation'); return false;">&#9998;</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="ev-label">Security Handling Video:</td>
+            <td id="virushandlingvideo">!{virushandlingvideo}</td>
+            <td colspan="2"></td>
+            <td class="ev-action-edit"><a href="#" onclick="editVideoLink('!{virusnumber}', 'handling'); return false;">&#9998;</a></td>
+            <td></td>
+        </tr>
+    </table>
+    <input type="hidden" name="fvirusnumber" id="fvirusnumber" value="!{virusnumber}" form="editvirusform">
+    <input type="hidden" name="fvirusvideo" id="fvirusvideo" value="!{virusvideo}" form="editvirusform">
+    <input type="hidden" name="fvirushandlingvideo" id="fvirushandlingvideo" value="!{virushandlingvideo}" form="editvirusform">
+
+    <input type="file" id="ev-pdf-upload" name="ffile" accept=".pdf" style="display:none" form="editvirusform" onchange="document.getElementById('editvirusform').submit()">
+
+</div>

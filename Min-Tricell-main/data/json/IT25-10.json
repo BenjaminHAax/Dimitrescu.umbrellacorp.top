@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "Date_of_birth": "24.09.1984",
+    "Name": "Jesse Pinkman",
+    "Sex": "MALE",
+    "Height": "180 cm",
+    "Weight": "75 kg",
+    "Blood_type": "A-",
+    "Rank": "JUNIOR DATA ANALYST",
+    "Security_level": "C",
+    "Signature": "Jesse Pinkman",
+    "Date": "24.09.1984",
+    "Employee_code": "IT25-10",
+    "Department": "MEDICAL DATA DEPARTMENT",
+    "Background": "Jesse's drug use led to him being estranged from his family and living a life on the streets. He became a small-time meth dealer before partnering with Walter White his former teacher to cook meth",
+    "Strengths": "Street smarts and empathy",
+    "Weaknesses": "Easy to manipulate"
+  }
+}

@@ -1,0 +1,51 @@
+<script language="JavaScript">
+function formCheckNewVirus()
+{
+    if(document.editvirusform.fdescription.value=="")
+    {
+        alert("You must give a description!");
+        return false;
+    }
+}
+
+/*document.addEventListener('DOMContentLoaded', function() {
+    var pdfInput = document.getElementById('ev-pdf-upload');
+    if(pdfInput) {
+        pdfInput.addEventListener('change', function() {
+            var virusnumber = this.getAttribute('data-virusnumber');
+            var formData = new FormData();
+            formData.append('pdffile', this.files[0]);
+            fetch('http://localhost:3000/api/editvirus/uploadpdf/' + virusnumber, {
+                method: 'POST',
+                body: formData
+            }).then(function(r) { return r.text(); }).then(function(msg) {
+                alert(msg);
+                location.reload();
+            });
+        });
+    }
+});*/
+
+function editVideoLink(virusnumber, type) {
+    var label = type === 'presentation' ? 'Security Presentation Video' : 'Security Handling Video';
+    var link = prompt("Enter link for " + label + ": \n(You have to click Edit Info after this to save the link)");
+    if(label === "Security Presentation Video") {
+        document.getElementById('fvirusvideo').value = link;
+        document.getElementById('virusvideo').textContent = link;
+    } else {
+        document.getElementById('fvirushandlingvideo').value = link;
+        document.getElementById('virushandlingvideo').textContent = link;
+    }
+}
+
+/*function deleteVirusPdf(virusnumber) {
+    if(confirm("Are you sure you want to delete the PDF for " + virusnumber + "?")) {
+        fetch('http://localhost:3000/api/editvirus/deletepdf/' + virusnumber, {
+            method: 'GET'
+        }).then(function(r) { return r.text(); }).then(function(msg) {
+            alert(msg);
+            location.reload();
+        });
+    }
+}*/
+</script>

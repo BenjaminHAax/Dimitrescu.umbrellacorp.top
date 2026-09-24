@@ -1,0 +1,16 @@
+students{
+    padding: 10px;
+    background-color: darkolivegreen; 
+}
+student{
+    background-color: antiquewhite;
+    padding: 15px;
+    border: 1px solid #333;
+    margin: 20px;
+    display: block;
+}
+student *{
+    display: block;
+    border-bottom: 1px dashed #999;
+    padding: 10px;
+}

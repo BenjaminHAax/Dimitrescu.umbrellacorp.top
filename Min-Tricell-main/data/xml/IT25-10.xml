@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fields xmlns:xfdf="http://ns.adobe.com/xfdf-transition/"
+><Date_of_birth xfdf:original="Date of birth"
+>24.09.1984</Date_of_birth
+><Name
+>Jesse Pinkman</Name
+><Sex
+>MALE</Sex
+><Height
+>180 cm</Height
+><Weight
+>75 kg</Weight
+><Blood_type xfdf:original="Blood type"
+>A-</Blood_type
+><Rank
+>JUNIOR DATA ANALYST</Rank
+><Security_level xfdf:original="Security level"
+>C</Security_level
+><Signature
+>Jesse Pinkman</Signature
+><Date
+>24.09.1984</Date
+><Employee_code xfdf:original="Employee code"
+>IT25-10</Employee_code
+><Department
+>MEDICAL DATA DEPARTMENT</Department
+><Background
+>Jesse's drug use led to him being estranged from his family and living a life on the streets. He became a small-time meth dealer before partnering with Walter White his former teacher to cook meth</Background
+><Strengths
+>Street smarts and empathy</Strengths
+><Weaknesses
+>Easy to manipulate</Weaknesses
+></fields>

@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "Date_of_birth": "16.05.1985",
+    "Name": "Oliver Queen",
+    "Sex": "M",
+    "Height": "185cm",
+    "Weight": "88kg",
+    "Blood_type": "B+",
+    "Rank": "Junior Data Analyst",
+    "Security_level": "C",
+    "Signature": "Oliver Queen",
+    "Date": "16.05.1985",
+    "Employee_code": "IT25-17",
+    "Department": "Medical Data Department",
+    "Background": "Oliver Queen was a billionaire playboy who was stranded on a hostile island after a shipwreck that killed his father. During his five years on the island, he was forced to develop survival skills and became a master archer and fighter. He also encountered various dangerous individuals who shaped him into a warrior. Upon his return to Star City, Oliver adopted the vigilante persona of the Green Arrow to fight crime and corruption while honoring his father's dying wish to save their city. His experiences transformed him from a carefree heir into a disciplined guardian.",
+    "Strengths": "Oliver Queen is a master archer with near-perfect accuracy, capable of hitting targets from incredible distances and in challenging conditions. His hand-to-hand combat skills are exceptional, trained in multiple martial arts disciplines. He possesses peak human physical conditioning, with extraordinary strength, speed, and agility. Oliver's tactical mind allows him to plan complex operations and adapt to changing battle conditions. His experience on the island and subsequent missions has given him advanced survival skills and the ability to improvise weapons and tools. He demonstrates strong leadership abilities and has successfully led teams of skilled operatives. His wealth provides him access to advanced technology and resources to support his vigilante activities.",
+    "Weaknesses": "Oliver's traumatic past and the moral weight of his actions often lead to emotional isolation and difficulty maintaining personal relationships. His tendency to shoulder burdens alone can prevent him from seeking help when needed, potentially compromising missions. The strict moral code he develops can sometimes conflict with pragmatic solutions, creating internal struggles about the right course of action. His public identity as a billionaire makes him a target and limits his operational flexibility. Oliver's protective nature toward those he cares about can be exploited by enemies who use his loved ones against him. His history of darkness and the extreme methods he sometimes employed early in his career continue to haunt him and affect his reputation among both allies and enemies."
+  }
+}

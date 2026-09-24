@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-9"?>
+
+<articles> 
+
+    <article category="web">HTML and CSS</article>
+
+    <article date="2019-05-10">
+        <content>Programmeringsspråk för back-end</content>
+        <header>HTML 5 och CSS 3</header>
+        <tomt />
+    </article>
+
+    <article>Javascript</article>
+    <article>XML</article>
+    <article>Jquery</article>
+
+</articles>

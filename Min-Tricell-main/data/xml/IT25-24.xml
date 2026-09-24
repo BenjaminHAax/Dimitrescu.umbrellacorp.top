@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fields xmlns:xfdf="http://ns.adobe.com/xfdf-transition/"
+><Date_of_birth xfdf:original="Date of birth"
+>01.01.0001</Date_of_birth
+><Name
+>Gandalf</Name
+><Sex
+>M</Sex
+><Height
+>180cm</Height
+><Weight
+>80kg</Weight
+><Blood_type xfdf:original="Blood type"
+>N/A</Blood_type
+><Rank
+>Junior Data Analyst</Rank
+><Security_level xfdf:original="Security level"
+>C</Security_level
+><Signature
+>Gandalf</Signature
+><Date
+>01.01.0001</Date
+><Employee_code xfdf:original="Employee code"
+>IT25-24</Employee_code
+><Department
+>Medical Data Department</Department
+><Background
+>Gandalf is one of the Istari (Wizards) sent by the Valar to Middle-earth to guide its peoples against Sauron. Known by many names (Mithrandir, Olórin, Grey Pilgrim). Wandered across Middle-earth, gathering knowledge, offering counsel, and uniting Free Peoples. Played a decisive role in the downfall of Sauron during the War of the Ring.</Background
+><Strengths
+>Great wisdom and knowledge. Skilled in magic, persuasion, and leadership. Inspires hope and courage in others. Strategic thinker and long-term planner. Strong moral compass and resilience.</Strengths
+><Weaknesses
+>Cannot directly dominate others (bound by the rules of the Istari). Sometimes secretive or cryptic in communication. Limited patience with foolishness (quick temper at times). Physically vulnerable compared to other beings (not invincible).</Weaknesses
+></fields>

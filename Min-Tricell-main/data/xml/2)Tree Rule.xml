@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bookstore> <!-- Root -->
+
+    <book category="fantastic">
+        <title lang="en">The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <year>1937</year>
+        <price> Less than           &lt; 25€</price>
+    </book>
+
+    <book category="fantastic">
+        <title lang="sv">Pippi Långstrump</title>
+        <author>Astrid Lindgren</author>
+        <year>1945</year>
+        <price>15€</price>
+    </book>
+
+    <book category="mystery">
+        <title lang="en">1984</title>
+        <author>George Orwell</author>
+        <year>1949</year>
+        <price>18€</price>
+    </book>
+
+    <book category="idea">
+        <title lang="sv">Röda rummet</title>
+        <author>August Strindberg</author>
+        <year>1879</year>
+        <price>22€</price>
+    </book>
+
+    <book category="fantastic">
+        <title lang="sv">Aniara</title>
+        <author>Harry Martinson</author>
+        <year>1956</year>
+        <price>19€</price>
+    </book>
+
+</bookstore>

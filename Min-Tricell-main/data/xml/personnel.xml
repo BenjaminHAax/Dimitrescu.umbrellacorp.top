@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="personnel_registry.xsl"?>
+
+<personnelRegistry>
+	<employee>
+		<employeeCode>IT20-23</employeeCode>
+		<name>Deadlift</name>
+		<signatureDate>15.01.1988</signatureDate>
+		<dateOfBirth>15.01.1988</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>A+</bloodType>
+		<height>190 cm</height>
+		<weight>197 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT23-20</employeeCode>
+		<name>Falcon</name>
+		<signatureDate>28.11.1989</signatureDate>
+		<dateOfBirth>28.11.1989</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>B-</bloodType>
+		<height>174 cm</height>
+		<weight>73 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT24-16</employeeCode>
+		<name>Groot</name>
+		<signatureDate>01.08.2014</signatureDate>
+		<dateOfBirth>01.08.2014</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>ZX2</bloodType>
+		<height>7.01 m</height>
+		<weight>3720 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT24-23</employeeCode>
+		<name>Lorna Dane</name>
+		<signatureDate>15.07.1982</signatureDate>
+		<dateOfBirth>15.07.1982</dateOfBirth>
+		<sex>F</sex>
+		<bloodType>B+</bloodType>
+		<height>170 cm</height>
+		<weight>52 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-01</employeeCode>
+		<name>Diddy Kong</name>
+		<signatureDate>21.09.2009</signatureDate>
+		<dateOfBirth>21.09.2009</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>B+</bloodType>
+		<height>79 cm</height>
+		<weight>18 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-02</employeeCode>
+		<name>Jar Jar Binks</name>
+		<signatureDate>26.11.2003</signatureDate>
+		<dateOfBirth>26.11.2003</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>B</bloodType>
+		<height>1.96 m</height>
+		<weight>66 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-03</employeeCode>
+		<name>Red Widow</name>
+		<signatureDate>04.08.2017</signatureDate>
+		<dateOfBirth>04.08.2017</dateOfBirth>
+		<sex>F</sex>
+		<bloodType>A</bloodType>
+		<height>1.74 m</height>
+		<weight>70 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-04</employeeCode>
+		<name>Beast Boy</name>
+		<signatureDate>22.02.2002</signatureDate>
+		<dateOfBirth>22.02.2002</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>O-</bloodType>
+		<height>172 cm</height>
+		<weight>68 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-05</employeeCode>
+		<name>Abigail Beethoven Sciuto</name>
+		<signatureDate>27.03.1969</signatureDate>
+		<dateOfBirth>27.03.1969</dateOfBirth>
+		<sex>F</sex>
+		<bloodType>AB-</bloodType>
+		<height>178 cm</height>
+		<weight>65 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-06</employeeCode>
+		<name>Nightwing</name>
+		<signatureDate>01.12.1996</signatureDate>
+		<dateOfBirth>01.12.1996</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>O+</bloodType>
+		<height>177 cm</height>
+		<weight>79 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-07</employeeCode>
+		<name>Stewie Griffin</name>
+		<signatureDate>11.09.1998</signatureDate>
+		<dateOfBirth>11.09.1998</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>AB-</bloodType>
+		<height>79 cm</height>
+		<weight>0.85 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-08</employeeCode>
+		<name>Captain Jack Sparrow</name>
+		<signatureDate>09.08.1963</signatureDate>
+		<dateOfBirth>09.08.1963</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>B-</bloodType>
+		<height>178 cm</height>
+		<weight>66 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-09</employeeCode>
+		<name>Sportacus</name>
+		<signatureDate>10.11.1964</signatureDate>
+		<dateOfBirth>10.11.1964</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>O+</bloodType>
+		<height>175 cm</height>
+		<weight>86 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-10</employeeCode>
+		<name>Jesse Pinkman</name>
+		<signatureDate>24.09.1984</signatureDate>
+		<dateOfBirth>24.09.1984</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>A-</bloodType>
+		<height>180 cm</height>
+		<weight>75 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-11</employeeCode>
+		<name>Arthur Dent</name>
+		<signatureDate>11.03.1990</signatureDate>
+		<dateOfBirth>11.03.1990</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>O+</bloodType>
+		<height>173 cm</height>
+		<weight>75 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-12</employeeCode>
+		<name>Mickey Mouse</name>
+		<signatureDate>18.11.1928</signatureDate>
+		<dateOfBirth>18.11.1928</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>0</bloodType>
+		<height>0.69</height>
+		<weight>10 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-13</employeeCode>
+		<name>Don Lorenzo</name>
+		<signatureDate>04.07.2006</signatureDate>
+		<dateOfBirth>04.07.2006</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>0-</bloodType>
+		<height>190 cm</height>
+		<weight>80 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-14</employeeCode>
+		<name>Leon Kennedy</name>
+		<signatureDate>08.11.1977</signatureDate>
+		<dateOfBirth>08.11.1977</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>A</bloodType>
+		<height>180 cm</height>
+		<weight>75 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-15</employeeCode>
+		<name>Harrier Du Bois</name>
+		<signatureDate>09.09.1981</signatureDate>
+		<dateOfBirth>09.09.1981</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>AB+</bloodType>
+		<height>180 cm</height>
+		<weight>93 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-16</employeeCode>
+		<name>Yeon Si-eun</name>
+		<signatureDate>05.10.2004</signatureDate>
+		<dateOfBirth>05.10.2004</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>B</bloodType>
+		<height>170 cm</height>
+		<weight>60 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-17</employeeCode>
+		<name>Oliver Queen</name>
+		<signatureDate>16.05.1985</signatureDate>
+		<dateOfBirth>16.05.1985</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>AB-</bloodType>
+		<height>180 cm</height>
+		<weight>88 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-18</employeeCode>
+		<name>Mr Sock</name>
+		<signatureDate>06.01.2230</signatureDate>
+		<dateOfBirth>06.01.2230</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>T-</bloodType>
+		<height>185 cm</height>
+		<weight>80 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-19</employeeCode>
+		<name>Sergei Dragunov</name>
+		<signatureDate>10.09.1981</signatureDate>
+		<dateOfBirth>10.09.1981</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>B</bloodType>
+		<height>192 cm</height>
+		<weight>98 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-20</employeeCode>
+		<name>Dante</name>
+		<signatureDate>27.10.1967</signatureDate>
+		<dateOfBirth>27.10.1967</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>B</bloodType>
+		<height>185 cm</height>
+		<weight>75 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-21</employeeCode>
+		<name>Stål Kalle</name>
+		<signatureDate>09.06.1920</signatureDate>
+		<dateOfBirth>09.06.1920</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>AB-</bloodType>
+		<height>102 cm</height>
+		<weight>7.2 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-22</employeeCode>
+		<name>Tecna</name>
+		<signatureDate>18.08.2025</signatureDate>
+		<dateOfBirth>18.08.2025</dateOfBirth>
+		<sex>F</sex>
+		<bloodType>O-</bloodType>
+		<height>12 cm</height>
+		<weight>0.12 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-23</employeeCode>
+		<name>Darth Revan</name>
+		<signatureDate>05.08.1966</signatureDate>
+		<dateOfBirth>05.08.1966</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>Unknown</bloodType>
+		<height>185 cm</height>
+		<weight>87 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-24</employeeCode>
+		<name>Gandalf</name>
+		<signatureDate>01.01.0001</signatureDate>
+		<dateOfBirth>01.01.0001</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>N/A</bloodType>
+		<height>180 cm</height>
+		<weight>80 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-25</employeeCode>
+		<name>Neo</name>
+		<signatureDate>11.03.1962</signatureDate>
+		<dateOfBirth>11.03.1962</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>O+</bloodType>
+		<height>178 cm</height>
+		<weight>89 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-26</employeeCode>
+		<name>Feathers McGraw</name>
+		<signatureDate>01.01.1993</signatureDate>
+		<dateOfBirth>01.01.1993</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>B-</bloodType>
+		<height>90 cm</height>
+		<weight>5.4 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-27</employeeCode>
+		<name>The Void</name>
+		<signatureDate>01.01.1600</signatureDate>
+		<dateOfBirth>01.01.1600</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>A</bloodType>
+		<height>200 cm</height>
+		<weight>200 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+	<employee>
+		<employeeCode>IT25-28</employeeCode>
+		<name>Mr Robot</name>
+		<signatureDate>17.09.1986</signatureDate>
+		<dateOfBirth>17.09.1986</dateOfBirth>
+		<sex>M</sex>
+		<bloodType>O-</bloodType>
+		<height>178 cm</height>
+		<weight>68 kg</weight>
+		<rank>Junior Data Analyst</rank>
+		<securityAccessLevel>C</securityAccessLevel>
+		<department>Medical Data Department</department>
+	</employee>
+</personnelRegistry>

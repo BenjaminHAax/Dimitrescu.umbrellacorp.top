@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="main.css" ?>
+
+<students>
+
+    <student>
+        <name>Ege</name>
+        <lastname>Özdemir</lastname>
+        <id>07</id>
+        <age>25</age>
+    </student>
+
+    <student>
+        <name>Ida</name>
+        <lastname>Balog</lastname>
+        <id>08</id>
+        <age>22</age>
+    </student>
+
+    <student>
+        <name>Jawad</name>
+        <lastname>Ahmadi</lastname>
+        <id>09</id>
+        <age>26</age>
+    </student>
+
+    <student>
+        <name>Fahri</name>
+        <lastname>Bozkurt</lastname>
+        <id>10</id>
+        <age>26</age>
+    </student>
+
+    <student>
+        <name>Görkem</name>
+        <lastname>Yenihayat</lastname>
+        <id>11</id>
+        <age>25</age>
+    </student>
+     
+    <student>
+        <name>Ahmet</name>
+        <lastname>Yener</lastname>
+        <id>12</id>
+        <age>28</age>
+    </student>
+
+</students>
