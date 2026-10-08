@@ -47,7 +47,7 @@
                 while ($row = mysqli_fetch_assoc($result)) 
                 {
                     $id = $row["id"];
-                    $logintimes = $row["logintimes"];
+                    $logintimes = (int)$row["logintimes"];
                     $lastlogin = $row["lastlogin"];
                     $lockout = $row["lockout"];
                     $loggedin = "ok";
@@ -72,7 +72,7 @@
 
                 //Lägga in de i databasen
                 $updateSQL = "UPDATE users SET 
-                    logintimes = logintimes + 1, 
+                    logintimes = COALESCE(NULLIF(logintimes, ''), 0) + 1, 
                     lastlogin = '$currentDate', 
                     lastlogintime = '$currentTime',
                     loginhost = '$clientIP'
